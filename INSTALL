@@ -1,0 +1,9 @@
+Building Ponscoin
+
+See doc/readme-qt.rst for instructions on building Ponscoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Ponscoin.
+
+See doc/build-*.txt for instructions on building ponscoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Ponscoin.
