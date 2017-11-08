@@ -69,9 +69,3 @@ Unit tests for the core code are in `src/test/`. To compile and run them:
 
     cd src; make -f makefile.unix test
 
-Unit tests for the GUI code are in `src/qt/test/`. To compile and run them:
-
-    Makefile.test ponscoin-qt.pro
-    make -f Makefile.test
-    ./ponscoin-qt_test
-
