@@ -71,7 +71,7 @@ Unit tests for the core code are in `src/test/`. To compile and run them:
 
 Unit tests for the GUI code are in `src/qt/test/`. To compile and run them:
 
-    qmake PONSCOIN_QT_TEST=1 -o Makefile.test ponscoin-qt.pro
+    Makefile.test ponscoin-qt.pro
     make -f Makefile.test
     ./ponscoin-qt_test
 
